@@ -1,0 +1,3 @@
+CWE535_Info_Exposure_Shell_Error__w32_char_01: CWE535_Info_Exposure_Shell_Error__w32_char_01.c
+	gcc -lcrypt -o CWE535_Info_Exposure_Shell_Error__w32_char_01 CWE535_Info_Exposure_Shell_Error__w32_char_01.c
+
